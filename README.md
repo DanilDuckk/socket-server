@@ -1,4 +1,4 @@
-# socket-server[
+# socket-server
 
 A project consists of three main components: a client, 
 a communication server, and a file transfer server.
